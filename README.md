@@ -187,6 +187,28 @@ This project was designed from scratch using **Figma**, applying modern design p
 |---------------|----------------|
 | ![Web Preview](./assets/desktop-view.png) | ![Mobile Preview](./assets/mobile-view.png)|
 
+
+### 🔐 Landing Page Web
+![Preview](./assets/desktop-view.png)
+
+### 🔐 Login Page
+![Preview](./assets/log_in.png)
+
+### 🔐 Sign Up Page
+![Preview](./assets/sign_up.png)
+
+### 🏠 Landing Page Mobile
+![Preview-1](./assets/mobile-view.png)
+![Preview-2](./assets/mobile_view2.png)
+
+### 🔐 Browse ( Web )
+![Preview](./assets/desktop_browse.png)
+
+### 📝 Browse ( Mobile )
+![ Preview](./assets/mobile_browse.png)
+
+
+
 > The Figma design demonstrates consistent visual hierarchy, responsive scaling, and modern component-driven UI aligned with real-world web app standards.
 
 
