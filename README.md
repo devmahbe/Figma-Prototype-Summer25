@@ -183,11 +183,6 @@ This project was designed from scratch using **Figma**, applying modern design p
 
 ### 🖼️ UI Snapshots
 
-| Web Dashboard | Mobile Version | 
-|---------------|----------------|
-| ![Web Preview](./assets/desktop-view.png) | ![Mobile Preview](./assets/mobile-view.png)|
-
-
 ### 🔐 Landing Page Web
 ![Preview](./assets/desktop-view.png)
 
