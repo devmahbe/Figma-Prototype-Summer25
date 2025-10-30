@@ -185,7 +185,7 @@ This project was designed from scratch using **Figma**, applying modern design p
 
 | Web Dashboard | Mobile Version | 
 |---------------|----------------|
-| ![Web Preview](./assets/preview-1.png) | ![Mobile Preview](./assets/mobile-view.png)|
+| ![Web Preview](./assets/desktop-view.png) | ![Mobile Preview](./assets/mobile-view.png)|
 
 > The Figma design demonstrates consistent visual hierarchy, responsive scaling, and modern component-driven UI aligned with real-world web app standards.
 
